@@ -1,47 +1,44 @@
 ---
 marp: true
-title: TDS GA 7 Presentation
-author: Vishal Rathi
-email: 23f1003053@ds.study.iitm.ac.in
-paginate: true
 theme: default
+class: lead
+paginate: true
 ---
 
-# TDS GA 7 Presentation
-
-**Name:** Vishal Rathi  
+# 📊 Quarterly Earnings Report  
+### Team: Data Science @ IITM  
 **Email:** 23f1003053@ds.study.iitm.ac.in  
-**Course:** Data Science (IIT Madras)
 
 ---
 
-## Problem Statement
-
-- Task was to create a GitHub Pages hosted presentation.  
-- The presentation should be written in **Markdown** using **Marp**.  
-- The email address must be included in the slides.  
-
----
-
-## Approach
-
-1. Created a new repository on GitHub.  
-2. Added a `slides.md` file with Marp directives.  
-3. Used the raw GitHub URL to serve the presentation.  
+# 🏆 Highlights
+- Revenue increased by **15% YoY**  
+- Net profit margin improved to **12%**  
+- Strong performance in **APAC region**  
 
 ---
 
-## Key Learnings
-
-- How to use **Marp** to generate slides from Markdown.  
-- Importance of including **metadata** (title, author, email).  
-- Hosting slides on **GitHub Pages**.  
+# 📈 Revenue Growth
+- Q1: ₹120 Cr  
+- Q2: ₹138 Cr  
+- Q3: ₹142 Cr  
+- Q4: ₹155 Cr  
 
 ---
 
-## Thank You 🙏
+# 🌍 Global Presence
+- Expansion in **Europe**  
+- New partnerships in **North America**  
+- Growth in **Southeast Asia**
 
-**Presented by:**  
-Vishal Rathi  
-23f1003053@ds.study.iitm.ac.in  
-IIT Madras – Data Science
+---
+
+<!-- Slide with background image -->
+![bg](https://picsum.photos/1200/800)
+
+# 🚀 Future Outlook
+- Targeting **20% growth** in FY 2025  
+- Investing in **AI & Data-driven products**  
+- Expanding **talent pool** at IITM  
+
+---
