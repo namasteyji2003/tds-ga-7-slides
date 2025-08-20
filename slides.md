@@ -1,44 +1,53 @@
 ---
 marp: true
 theme: default
-class: lead
 paginate: true
+class: lead
+backgroundColor: #fff
 ---
 
-# 📊 Quarterly Earnings Report  
-### Team: Data Science @ IITM  
+# 📊 TDS GA-7 Presentation  
+
+**Name:** Vishal Rathi  
 **Email:** 23f1003053@ds.study.iitm.ac.in  
+**Roll No.:** 23f1003053  
 
 ---
 
-# 🏆 Highlights
-- Revenue increased by **15% YoY**  
-- Net profit margin improved to **12%**  
-- Strong performance in **APAC region**  
+# 📌 Agenda  
 
----
-
-# 📈 Revenue Growth
-- Q1: ₹120 Cr  
-- Q2: ₹138 Cr  
-- Q3: ₹142 Cr  
-- Q4: ₹155 Cr  
-
----
-
-# 🌍 Global Presence
-- Expansion in **Europe**  
-- New partnerships in **North America**  
-- Growth in **Southeast Asia**
+1. Introduction  
+2. Data & Methodology  
+3. Results  
+4. Conclusion  
 
 ---
 
 <!-- Slide with background image -->
 ![bg](https://picsum.photos/1200/800)
 
-# 🚀 Future Outlook
-- Targeting **20% growth** in FY 2025  
-- Investing in **AI & Data-driven products**  
-- Expanding **talent pool** at IITM  
+# 🌟 Data Science Journey  
+
+Exploring insights through **data-driven decision making**.  
 
 ---
+
+# 📈 Results  
+
+- Model Accuracy: **85%**  
+- R² Score: **0.91**  
+- Best Performing Algorithm: **XGBoost**  
+
+---
+
+# ✅ Conclusion  
+
+- Learned GitHub Pages + Marp  
+- Created interactive presentation  
+- Submission ready 🚀  
+
+---
+
+# 🙏 Thank You  
+
+📧 Email: 23f1003053@ds.study.iitm.ac.in  
