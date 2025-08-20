@@ -1,57 +1,47 @@
 ---
 marp: true
-theme: gaia
+title: TDS GA 7 Presentation
+author: Vishal Rathi
+email: 23f1003053@ds.study.iitm.ac.in
 paginate: true
-math: katex
-backgroundColor: #f4f4f9
+theme: default
 ---
 
-<!-- Title Slide -->
-# 📊 TDS GA 7 Presentation  
+# TDS GA 7 Presentation
+
 **Name:** Vishal Rathi  
 **Email:** 23f1003053@ds.study.iitm.ac.in  
+**Course:** Data Science (IIT Madras)
 
 ---
 
-## 📌 Introduction
-- Brief about the topic  
-- Key goals of the presentation  
-- What you will learn  
+## Problem Statement
+
+- Task was to create a GitHub Pages hosted presentation.  
+- The presentation should be written in **Markdown** using **Marp**.  
+- The email address must be included in the slides.  
 
 ---
 
-## 🔢 Example with Math
-Inline math: $a^2 + b^2 = c^2$
+## Approach
 
-Block math:
-
-$$
-\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-$$
+1. Created a new repository on GitHub.  
+2. Added a `slides.md` file with Marp directives.  
+3. Used the raw GitHub URL to serve the presentation.  
 
 ---
 
-## 🎨 Features of Marp
-- Markdown based slides  
-- Easy theming with CSS/Directives  
-- Can be published via GitHub Pages  
-- Supports images, math, charts  
+## Key Learnings
+
+- How to use **Marp** to generate slides from Markdown.  
+- Importance of including **metadata** (title, author, email).  
+- Hosting slides on **GitHub Pages**.  
 
 ---
 
-## 📷 Adding Images
-![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_OpenAI.svg)
+## Thank You 🙏
 
-Text on the right side.  
-
----
-
-## ✅ Summary
-- Learned how to use Marp  
-- Created a GitHub-hosted presentation  
-- Email included for identification  
-
----
-
-# 🙏 Thank You!  
-📧 23f1003053@ds.study.iitm.ac.in  
+**Presented by:**  
+Vishal Rathi  
+23f1003053@ds.study.iitm.ac.in  
+IIT Madras – Data Science
